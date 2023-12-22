@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Dec 22 2023)
+
+#### 🐛 Bug Fix
+
+- Added support for running adguard-home through the docker compose file [#1](https://github.com/nihitb06/container-nrcbmyi/pull/1) (Nihit.Bansal@cvent.com)
+
+#### Authors: 1
+
+- Nihit Bansal ([@nihitb06](https://github.com/nihitb06))
+
+---
+
 # v0.0.1 (Fri Dec 22 2023)
 
 :tada: This release contains work from a new contributor! :tada:
