@@ -1,3 +1,15 @@
+# v0.0.4 (Sat Dec 23 2023)
+
+#### 🐛 Bug Fix
+
+- Removed unused hidden file [#3](https://github.com/nihitb06/container-nrcbmyi/pull/3) (Nihit.Bansal@cvent.com)
+
+#### Authors: 1
+
+- Nihit Bansal ([@nihitb06](https://github.com/nihitb06))
+
+---
+
 # v0.0.3 (Fri Dec 22 2023)
 
 #### 🐛 Bug Fix
